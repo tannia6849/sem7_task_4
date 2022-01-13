@@ -1,6 +1,7 @@
 [project]
-name = lektor-project-circleci
+name = sem7_task_4
 
 [servers.ghdeploy]
 name=Dev
-target = ghpages+https://polinalazebnikova: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@polinalazebnikova/lektor-project-circleci/
+target = ghpages+https://tannia6849/sem7_task_4/
+
